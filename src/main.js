@@ -1,4 +1,5 @@
-import str from './foo';
+import { version } from '../package.json';
+
 export default () => {
-    console.log(str);
+    console.log('version：' + version);
 }

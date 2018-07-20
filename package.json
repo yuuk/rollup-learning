@@ -1,0 +1,24 @@
+{
+  "name": "rollup-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuuk/rollup-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuuk/rollup-learning/issues"
+  },
+  "homepage": "https://github.com/yuuk/rollup-learning#readme",
+  "devDependencies": {
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-json": "^3.0.0"
+  }
+}
